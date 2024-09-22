@@ -1,0 +1,6 @@
+__pycache__
+flan-t5-small
+glove.6B
+nltk_data
+pymupdf-venv
+models--distilbert-base-cased-distilled-squad
